@@ -17,6 +17,12 @@ Here are some ideas to get you started:
 </div>
 
 ## Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+<br>
+上智大学理工学部情報理工学科3年の柴田悠生です。
+<br><BR>上智大学のデータサイエンスサークル「Sophia Data Tech」にて、ノーコードで機械学習を行うことができる自動機械学習（AutoML）ツール「Sophia Compass」をチームで開発しました。
+<br>https://github.com/tontiruu/AutoML<br>
+<br>
+また、東京大学大学院の松尾研究室が開講している無料講座「Deep Learning基礎講座」を修了しています。最終課題にて、脳波の分類を行いました。
 
   <br>
 
@@ -24,7 +30,7 @@ Here are some ideas to get you started:
 
 ## 🌱 Skills
 
-<img alt="my skills"  src="https://skillicons.dev/icons?theme=dark&perline=7&i=pinia,pinia,pinia,pinia,pinia,pinia,pinia,git,html,js,fastapi,mongodb,twitter,sqlite,css,go,ts,instagram,bootstrap,react,next,notion,github,flask,opencv,sklearn,electron,figma,c,c,py,au,azure,docker,gmail,matlab,discord,gitlab,r,rust,unrealengine,unity,v,vscode,visualstudio,mysql,linkedin,blender,anaconda,ps,pytorch,nodejs,firebase,dart,flutter,linux,latex,npm,aws,apple,azul,java,py,pr,powershell,vite,swift,ruby,stackoverflow,wordpress,xd,ai,git,flask,php,twitter,instagram,pinia,pinia,pinia,pinia,pinia,pinia,pinia,." />
+<img alt="my skills"  src="https://skillicons.dev/icons?theme=dark&perline=7&i=py,sklearn,pytorch,r,c,java,html,css,matlab,git,notion,github,figma,azure,vscode,visualstudio,anaconda,latex" />
 <br>
 
 ## 🏃‍♀️ Activities
@@ -33,3 +39,6 @@ Here are some ideas to get you started:
   <img alt="github stats" height="170px" src="https://github-readme-stats-gold-mu.vercel.app/api?username=Shibayuuuu&theme=transparent&layout=compact&count_private=true" />
   <img alt="Top Langs" height="170px" src="https://github-readme-stats-gold-mu.vercel.app/api/top-langs/?username=Shibayuuuu&theme=transparent&count_private=true" />
 </div>
+
+<br>
+
