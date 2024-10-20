@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 
 ## 🌱 Skills
 
-<img alt="my skills"  src="https://skillicons.dev/icons?theme=dark&perline=7&i=py,sklearn,pytorch,r,c,java,html,css,matlab,git,notion,github,figma,azure,vscode,visualstudio,anaconda,latex" />
+<img alt="my skills"  src="https://skillicons.dev/icons?theme=dark&perline=7&i=py,sklearn,pytorch,r,c,matlab,git,notion,github,figma,azure,vscode,visualstudio,anaconda,latex" />
 <br>
 
 ## 🏃‍♀️ Activities
